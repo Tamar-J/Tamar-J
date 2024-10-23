@@ -2,10 +2,8 @@
 
 ## **Sobre** 📚
 
-  - **🎯 Profissional autodidata focado em desenvolver aplicativos android e ios com React Native.**
-  - **📊 Estudo a mais de 2 anos**
-  - **📈 Busco melhorar meus algoritmos e assim construir aplicativos mais performáticos e melhorar a experiência do usuário.**
-  - **💖 Gosto de automações, IOT, aplicativos mobile, jogos online, musculação, ocarina, animes, Bíblia Sagrada e tecnologia em geral.**
+  - **🎯 Profissional autodidata focado em desenvolver aplicativos com React Native.**
+  - **📊 Desenvolvedor mobile a mais de 2 anos.**
 
 ## **Skills** ⚔️
   
